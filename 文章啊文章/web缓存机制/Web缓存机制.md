@@ -4,7 +4,7 @@
 
 ## 协议缓存
 
-![web缓存机制-3](web缓存机制-3.jpg)
+![web缓存机制-1](web缓存机制-1.jpg)
 
 ## Last-Modified/If-Modified-Since
 
