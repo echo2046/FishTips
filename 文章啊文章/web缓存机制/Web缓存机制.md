@@ -4,7 +4,7 @@
 
 ## 协议缓存
 
-![iT Epublic, private, no-cache, no-store, no-transform must-revalidate. proxy-](/Users/jinzhefeng/Downloads/iT Epublic, private, no-cache, no-store, no-transform must-revalidate. proxy-.jpg)
+![iT Epublic, private, no-cache, no-store, no-transform must-revalidate. proxy-](iT Epublic, private, no-cache, no-store, no-transform must-revalidate. proxy-.jpg)
 
 ## Last-Modified/If-Modified-Since
 
@@ -44,7 +44,7 @@ Etag是服务器自动生成或者由开发者生成的对应资源在服务器�
 
 
 
-![ExpiresCache-Control](/Users/jinzhefeng/Downloads/ExpiresCache-Control.jpg)
+![ExpiresCache-Control](ExpiresCache-Control.jpg)
 
 
 
@@ -54,7 +54,7 @@ Etag是服务器自动生成或者由开发者生成的对应资源在服务器�
 
 
 
-![web缓存机制-2](/Users/jinzhefeng/Downloads/web缓存机制-2.jpg)
+![web缓存机制-2](web缓存机制-2.jpg)
 
 
 
@@ -64,7 +64,7 @@ Etag是服务器自动生成或者由开发者生成的对应资源在服务器�
 
 
 
-![web缓存机制-3](/Users/jinzhefeng/Downloads/web缓存机制-3.jpg)
+![web缓存机制-3](web缓存机制-3.jpg)
 
 
 
